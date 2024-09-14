@@ -1,5 +1,5 @@
 {
-  "name": "babi-todo-backend",
+  "name": "todo-app-backend-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
